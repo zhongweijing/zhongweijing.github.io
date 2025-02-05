@@ -3,8 +3,6 @@ layout: default
 title: "About Me"
 ---
 
-
-
   
 ## Education
 - **2024 - Present:** Master of Science in Applied in GIS, National University of Singapore
