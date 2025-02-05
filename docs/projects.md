@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Projects"
+---
+
+
 ## Strategic Planning
 - **2024 - Present:** Master of Science in Applied in GIS, National University of Singapore
 - **2014 - 2017:** Master of Engineering in Town and Country Planning, Tongji University 
