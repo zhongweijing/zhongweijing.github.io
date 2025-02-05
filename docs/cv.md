@@ -12,6 +12,3 @@ title: "About Me"
 ## Industrial Experience
 - **Senior Urban Planner**, Hangzhou City Planning and Design Academy(2024 - Present)
 - **Urban Planner**, Hangzhou City Planning and Design Academy(2017 - 2024)
-
-# CV
-📄 [Download CV (PDF)](/assets/cv.pdf)
