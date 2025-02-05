@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Research"
+---
+
+
 ## Research Projects
 - **2024 - Present:** Master of Science in Applied in GIS, National University of Singapore
 
