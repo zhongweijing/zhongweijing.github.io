@@ -14,32 +14,18 @@
             background: #f8f8f8;
             padding: 15px 0;
             display: flex;
-            text-align: center;
             justify-content: center;
             gap: 20px;
             box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+            z-index: 1000;
         }
+        /* 导航链接 */
         nav a {
-            margin: 0 15px;
             text-decoration: none;
             font-size: 16px;
             color: #333;
             padding: 8px 15px;
-            transition: color 0.3s;
-        }
-        .container {
-            max-width: 900px;
-            margin: 50px auto;
-            text-align: center;
-        }
-        .profile-img {
-            width: 120px;
-            height: 120px;
-            border-radius: 50%;
-        }
-        .big-text {
-            font-size: 40px;
-            font-weight: bold;
+            transition: color 0.3s, border-bottom 0.3s;
         }            
         /* 鼠标悬停时颜色变化 */
         nav a:hover {
@@ -51,19 +37,84 @@
             color: black;
             border-bottom: 2px solid black;
         }
+        /* 主容器 */
+        .container {
+            max-width: 900px;
+            margin: 100px auto 50px auto;
+            padding: 20px;
+            text-align: left;
+        }
+        /* 个人信息布局 */
+        .profile {
+            display: flex;
+            align-items: center;
+            gap: 20px;
+        }
+        .profile-img {
+            width: 120px;
+            height: 120px;
+            border-radius: 50%;
+        }
+        .profile-info {
+            flex-grow: 1;
+        }
+        .profile-name {
+            font-size: 36px;
+            font-weight: bold;
+        }
+        .profile-title {
+            font-size: 24px;
+            color: #666;
+        }
+        /* 主要内容样式 */
         /* 避免导航栏遮挡内容 */
         main {
             padding-top: 60px;
             max-width: 900px;
             margin: auto;
         }
+        /* 相关链接 */
+        .links a {
+            color: #0077cc;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        .links a:hover {
+            text-decoration: underline;
+        }
     </style>
 </head>
 <body>
     {% include header.html %}
     
-    <main>
-        {{ content }}
+    <main class="container">
+        <div class="profile">
+            <img src="{{ '/docs/assets/profile.jpg' | relative_url }}" alt="Profile Image" class="profile-img">
+            <div class="profile-info">
+                <div class="profile-name">DR. RUI ZHU</div>
+                <div class="profile-title">Urban Informatics Researcher</div>
+            </div>
+        </div>
+        <p>
+            My research interest lies in Urban Informatics, including three interconnected fields: Solar Cities, 
+            Urban Environment, and Urban Mobility. During the past few years, I have refined and further enriched 
+            the concept of Solar Cities and comprehensively developed models to address scientific challenges in the estimation 
+            of spatiotemporal solar photovoltaic (PV) potential on 3D urban surfaces...
+        </p>
+        
+        <p>All detailed information is included in my full <a href="#">Curriculum Vitae</a>.</p>
+
+        <p class="links">
+            Here are my 
+            <a href="#">Google Scholar</a>, 
+            <a href="#">ORCID</a>, 
+            <a href="#">ResearchGate</a>, 
+            <a href="#">LinkedIn</a>, and 
+            <a href="#">Twitter</a>.
+        </p>
+
+        <p>Address: 1 Fusionopolis Way, #15 Connexis, Singapore 138632. Email: <a href="mailto:zhur@ihpc.a-star.edu.sg">zhur@ihpc.a-star.edu.sg</a></p>
+ 
     </main>
 
     {% include footer.html %}
