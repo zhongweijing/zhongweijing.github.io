@@ -4,9 +4,35 @@ title: Home
 ---
 
 # Welcome to My CV Page
-![Profile Picture](images/profile.jpg)
 
-Hi, I'm Zhong Weijing, an urban planner and GIS researcher.
+<div class="profile">
+    <img src="{{ '/images/profile.jpg' | relative_url }}" alt="Profile Image" class="profile-img">
+    <div class="profile-info">
+        <div class="profile-name">ZHONG WEIJING</div>
+        <div class="profile-title">Urban Planner and GIS Researcher</div>
+    </div>
+</div>
+
+<p>
+    My research interest lies in Urban Sustainability, including three interconnected fields: Solar Cities, 
+    Urban Environment, and Urban Mobility. During the past few years, I have refined and further enriched 
+    the concept of Solar Cities and comprehensively developed models to address scientific challenges in the estimation 
+    of spatiotemporal solar photovoltaic (PV) potential on 3D urban surfaces...
+</p>
+
+<p>All detailed information is included in my full <a href="#">Curriculum Vitae</a>.</p>
+
+<p class="links">
+    Here are my 
+    <a href="#">Google Scholar</a>, 
+    <a href="#">ORCID</a>, 
+    <a href="#">ResearchGate</a>, 
+    <a href="#">LinkedIn</a>, and 
+    <a href="#">Twitter</a>.
+</p>
+
+<p>Address: 1 Fusionopolis Way, #15 Connexis, Singapore 138632. Email: <a href="mailto:zhur@ihpc.a-star.edu.sg">zhur@ihpc.a-star.edu.sg</a></p>
+
 
 📄 [Download My CV](/docs/assets/cv.pdf)
 
