@@ -5,10 +5,11 @@ title: "Research"
 
 
 ## Research Projects
-- **2024 - Present:** Master of Science in Applied in GIS, National University of Singapore
+- Research on the Transmission Mechanism from Green Space System Special Planning to Detailed Planning, Research Project of Hangzhou Garden and Cultural Relics Bureau, 2021-2022
+- Research on the Assessment of Urban Built Environment based on Cell Phone Signaling Data, Science and Technology Talent Programme of Shanghai Municipal Science and Technology Commission 2016-2019
 
+- 
 ## Publications
-- **2024 - Present:** Master of Science in Applied in GIS, National University of Singapore
-- **2014 - 2017:** Master of Engineering in Town and Country Planning, Tongji University 
-- **2009 - 2014:** Bachelor of Engineering in Urban Planning, Nanjing University
-
+- Zhong W.J., Wang D. A Study on the Spatial Characteristics of Nighttime Vitality in the City Center of Shanghai[J]. City Planning Review, 2019,43(06):97-106+114. DOI:10.11819/cpr20190615a.
+- Zhong W.J., Wang D. Urban Space Study Based on the Temporal Characteristics of Residents' Behavior[J]. Progress in Geography, 2018, 37(08):1106-1118. DOI: 10.18306/dlkxjz.2018.08.010.
+- Zhang M., Wu W., Zhong W.J. et al.The Reshaping of Social Relations: Resettled Rural Residents in Zhenjiang, China[J], Cities, 2016, 60 (PT.B):495-503.DOI:10.1016/j.cities.2016.06.007.
