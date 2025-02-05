@@ -5,7 +5,7 @@ description: Urban Planner & GIS Researcher
 # 添加导航栏
 navigation:
   - name: Home
-    link: /index
+    link: /
   - name: About Me
     link: /cv
   - name: Projects
