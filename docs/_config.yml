@@ -5,15 +5,13 @@ description: Urban Planner & GIS Researcher
 # 添加导航栏
 navigation:
   - name: Home
-    link: /home
-  - name: CV
+    link: /index
+  - name: Experience
     link: /cv
   - name: Projects
     link: /projects
   - name: Research
     link: /research
-  - name: Contact
-    link: /contact
 
 
 baseurl: "/zhongweijing.github.io/docs"  # 如果你的 GitHub Pages 不是根域名，需要加这个
