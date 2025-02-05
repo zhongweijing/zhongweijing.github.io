@@ -83,6 +83,9 @@ nav a.active {
 main {
     max-width: 900px;
     margin: auto;
+    padding-top: 60px;
+    font-size: 18px;  /* 设置字体大小 */
+    line-height: 1.8; /* 设置行间距 */
 }
 
 p {
