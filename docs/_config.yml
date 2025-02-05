@@ -13,7 +13,7 @@ navigation:
   - name: Research
     link: /research
   - name: Contact
-    link: /contatc
+    link: /contact
 
 
 baseurl: "/zhongweijing.github.io/docs"  # 如果你的 GitHub Pages 不是根域名，需要加这个
