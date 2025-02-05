@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Career - Zhongweijing</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <aside class="sidebar">
+            <img src="profile.jpg" alt="Profile Picture">
+            <h2>Zhongweijing</h2>
+            <p>GIS Researcher & Urban Planner</p>
+            <p>Email: your-email@example.com</p>
+        </aside>
+        <main class="content">
+            <h1>CV</h1>
+            <ul>
+                <li><strong>2023 - Now:</strong> GIS Master Student, NUS</li>
+                <li><strong>2020 - 2022:</strong> Research Assistant, Urban Planning Institute</li>
+                <li><strong>2017 - 2020:</strong> Bachelor's in GIS, University XYZ</li>
+            </ul>
+        </main>
+    </div>
+</body>
+</html>
