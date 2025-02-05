@@ -3,9 +3,7 @@ layout: default
 title: "Career"
 ---
 
-# CV
 
-📄 [Download CV (PDF)](/assets/cv.pdf)
 
   
 ## Education
@@ -17,3 +15,5 @@ title: "Career"
 - **2024 - Present:** Senior Urban Planner, Hangzhou City Planning and Design Academy
 - **2017 - 2024:** Urban Planner, Hangzhou City Planning and Design Academy
 
+# CV
+📄 [Download CV (PDF)](/assets/cv.pdf)
