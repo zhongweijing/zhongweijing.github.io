@@ -12,9 +12,9 @@ title: "Research"
 
 ## Publications
 
-### Journal Papers (peer reviewed)
-- Zhong W.J., Wang D. A Study on the Spatial Characteristics of Nighttime Vitality in the City Center of Shanghai[J]. City Planning Review, 2019,43(06):97-106+114. DOI:10.11819/cpr20190615a.
-- Zhong W.J., Wang D. Urban Space Study Based on the Temporal Characteristics of Residents' Behavior[J]. Progress in Geography, 2018, 37(08):1106-1118. DOI: 10.18306/dlkxjz.2018.08.010.
-- Zhang M., Wu W., Zhong W.J. et al.The Reshaping of Social Relations: Resettled Rural Residents in Zhenjiang, China[J], Cities, 2016, 60 (PT.B):495-503.DOI:10.1016/j.cities.2016.06.007.
+### Journal Papers 
+- **Zhong W.J.**, Wang D. A Study on the Spatial Characteristics of Nighttime Vitality in the City Center of Shanghai[J]. City Planning Review, 2019,43(06):97-106+114. DOI:10.11819/cpr20190615a.
+- **Zhong W.J.**, Wang D. Urban Space Study Based on the Temporal Characteristics of Residents' Behavior[J]. Progress in Geography, 2018, 37(08):1106-1118. DOI: 10.18306/dlkxjz.2018.08.010.
+- Zhang M., Wu W., **Zhong W.J.** et al.The Reshaping of Social Relations: Resettled Rural Residents in Zhenjiang, China[J], Cities, 2016, 60 (PT.B):495-503.DOI:10.1016/j.cities.2016.06.007.
 - 
-### Conference Proceedings (peer reviewed)
+### Conference Proceedings 
