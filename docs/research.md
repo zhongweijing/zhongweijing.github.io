@@ -8,7 +8,8 @@ title: "Research"
 - Research on the Transmission Mechanism from Green Space System Special Planning to Detailed Planning, Research Project of Hangzhou Garden and Cultural Relics Bureau, 2021-2022
 - Research on the Assessment of Urban Built Environment based on Cell Phone Signaling Data, Science and Technology Talent Programme of Shanghai Municipal Science and Technology Commission 2016-2019
 
-- 
+
+
 ## Publications
 - Zhong W.J., Wang D. A Study on the Spatial Characteristics of Nighttime Vitality in the City Center of Shanghai[J]. City Planning Review, 2019,43(06):97-106+114. DOI:10.11819/cpr20190615a.
 - Zhong W.J., Wang D. Urban Space Study Based on the Temporal Characteristics of Residents' Behavior[J]. Progress in Geography, 2018, 37(08):1106-1118. DOI: 10.18306/dlkxjz.2018.08.010.
