@@ -9,5 +9,5 @@ Hi, I'm Zhong Weijing, an urban planner and GIS researcher.
 
 📄 [Download My CV](/docs/assets/cv.pdf)
 
-[Career](career.md) | [Contact](contact.md)
+[CV](cv.md) | [Projects](projects.md) | [Research](research.md) | [Contact](contact.md)
 
