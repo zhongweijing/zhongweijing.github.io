@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# Welcome to My CV Page
+## Welcome to My Page
 
 <div class="profile">
     <img src="{{ '/images/profile.jpg' | relative_url }}" alt="Profile Image" class="profile-img">
@@ -31,7 +31,7 @@ title: Home
     <a href="#">Twitter</a>.
 </p>
 
-<p>Address: 1 Fusionopolis Way, #15 Connexis, Singapore 138632. Email: <a href="mailto:zhur@ihpc.a-star.edu.sg">zhur@ihpc.a-star.edu.sg</a></p>
+<p>Email: <a href="wjzhong0531@gmail.com">wjzhong0531@gmail.com</a></p>
 
 
 📄 [Download My CV](/docs/assets/cv.pdf)
