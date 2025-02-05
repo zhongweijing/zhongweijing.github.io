@@ -8,12 +8,12 @@ title: "Career"
 📄 [Download CV (PDF)](/assets/cv.pdf)
 
   
-## education
-- **2023 - Now:** GIS Master Student, NUS
-- **2020 - 2022:** Research Assistant, Urban Planning Institute
-- **2017 - 2020:** Bachelor's in GIS, University XYZ
+## Education
+- **2024 - Present:** Master of Science in Applied in GIS, National University of Singapore
+- **2014 - 2017:** Master of Engineering in Town and Country Planning, Tongji University 
+- **2009 - 2014:** Bachelor of Engineering in Urban Planning, Nanjing University
 
-## work experience
-- **2023 - Now:** GIS Master Student, NUS
-- **2020 - 2022:** Research Assistant, Urban Planning Institute
-- **2017 - 2020:** Bachelor's in GIS, University XYZ
+## Work Experience
+- **2024 - Present:** Senior Urban Planner, Hangzhou City Planning and Design Academy
+- **2017 - 2024:** Urban Planner, Hangzhou City Planning and Design Academy
+
