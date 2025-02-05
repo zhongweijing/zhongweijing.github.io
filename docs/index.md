@@ -5,7 +5,7 @@ title: Home
 
 # Welcome to My CV Page
 
-Hi, I'm Zhongweijing, a GIS researcher and urban planner.
+Hi, I'm Zhong Weijing, an urban planner and GIS researcher.
 
 📄 [Download My CV](/docs/assets/cv.pdf)
 
