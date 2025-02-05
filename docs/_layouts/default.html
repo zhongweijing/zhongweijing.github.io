@@ -44,13 +44,7 @@
     </style>
 </head>
 <body>
-    <nav>
-        <a href="/" class="{% if page.url == '/' %}active{% endif %}">Home</a> |
-        <a href="/cv" class="{% if page.url == '/cv' %}active{% endif %}">CV</a> |
-        <a href="/projects" class="{% if page.url == '/projects' %}active{% endif %}">Projects</a> |
-        <a href="/research" class="{% if page.url == '/research' %}active{% endif %}">Research</a> |
-        <a href="/contact" class="{% if page.url == '/contact' %}active{% endif %}">Contact</a>
-    </nav>
+    {% include header.html %}
     
     <main>
         {{ content }}
