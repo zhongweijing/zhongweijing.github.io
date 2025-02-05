@@ -1,5 +1,19 @@
-theme: minima  # 使用 GitHub Pages 自带的 Jekyll 主题
-title: Zhong Weijing's CV
+theme: jekyll-theme-minimal
+title: Zhongweijing's Page
 description: Urban Planner & GIS Researcher
-baseurl: "/zhongweijing.github.io/docs"  # 如果你的 GitHub Pages 不是根域名，需要加这个
 
+# 添加导航栏
+navigation:
+  - name: Home
+    link: /home
+  - name: CV
+    link: /cv
+  - name: Projects
+    link: /projects
+  - name: Research
+    link: /research
+  - name: Contact
+    link: /contatc
+
+
+baseurl: "/zhongweijing.github.io/docs"  # 如果你的 GitHub Pages 不是根域名，需要加这个
