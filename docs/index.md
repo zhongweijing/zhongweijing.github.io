@@ -13,6 +13,11 @@ title: Home
     </div>
 </div>
 
+## About Me
+I am now a lecturer and research associate in Technical University of Munich, Germany, and also affiliated with the GIScience group in Heidelberg Universtiy. Prior to TUM, I received my Ph.D. in the GIScience research group at the Institute of Geography in Heidelberg University, Germany. I got my MS.c degree from University of Stuttgart, Germany, where I was major in Geomatics engineering. Before came to Germany, I got my double BS.c degrees in both Geographical Information Systems and Computer Science at Wuhan University, China.
+
+Besides research, I enjoy basketball, cylcing, and running. In addition, I’m also a big fan of cooking for my family, just cannot stop trying all differents delicious cuisines.
+
 <p>
     My research interest lies in Urban Sustainability, including three interconnected fields: Solar Cities, 
     Urban Environment, and Urban Mobility. During the past few years, I have refined and further enriched 
