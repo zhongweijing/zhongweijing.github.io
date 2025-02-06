@@ -12,11 +12,14 @@ title: "Research"
 
 ## Publications
 ### Journal Papers 
-- **Zhong W.J.**, Wang D. A Study on the Spatial Characteristics of Nighttime Vitality in the City Center of Shanghai[J]. City Planning Review, 2019,43(06):97-106+114. DOI:10.11819/cpr20190615a.
-- **Zhong W.J.**, Wang D. Urban Space Study Based on the Temporal Characteristics of Residents' Behavior[J]. Progress in Geography, 2018, 37(08):1106-1118. DOI: 10.18306/dlkxjz.2018.08.010.
-- Zhang M., Wu W., **Zhong W.J.** et al.The Reshaping of Social Relations: Resettled Rural Residents in Zhenjiang, China[J], Cities, 2016, 60 (PT.B):495-503.DOI:10.1016/j.cities.2016.06.007.
-- Zhong W.J., Wang D. Research on Spatial Characteristics of Nighttime Vitality in Downtown Shanghai[J]. Urban Planning,2019,43(06):97-106+114.
-- Zhong W.J., Wang D., Xie D.C. et al. Research on the Dynamic Characteristics of Population Distribution and Spatial Activities in Shanghai - An Exploration based on Cell Phone Signaling Data[J]. Geographical Research,2017,36(05):972-984.
+- **Zhong, W. J.**, & Wang, D. (2019). A study on the spatial characteristics of nighttime vitality in the city center of Shanghai. *City Planning Review*, 43(6), 97-106+114. https://doi.org/10.11819/cpr20190615a
+- **Zhong, W. J.**, & Wang, D. (2019). Research on spatial characteristics of nighttime vitality in downtown Shanghai. *Urban Planning*, 43(6), 97-106+114.
+- **Zhong, W. J.**, & Wang, D. (2018). Urban space study based on the temporal characteristics of residents' behavior. *Progress in Geography*, 37(8), 1106-1118. https://doi.org/10.18306/dlkxjz.2018.08.010
+- **Zhong, W. J.**, Wang, D., & Xie, D. C., et al. (2017). Research on the dynamic characteristics of population distribution and spatial activities in Shanghai: An exploration based on cell phone signaling data. Geographical Research, 36(5), 972-984.
+- Zhang, M., Wu, W., **Zhong, W. J.,** et al. (2016). The reshaping of social relations: Resettled rural residents in Zhenjiang, China. *Cities*, 60(PT.B), 495-503. https://doi.org/10.1016/j.cities.2016.06.007
+- 
+
+
 - Zhong W.J., Wang D., Zhang M. Research on the Spatial Production of Centralized Resettlement Community for Demolished Farmers based on Participating Subjects--Taking Pingchang New Town of Zhenjiang New District as an example[J]. Modern Urban Research,2016(11):77-85.
 - Zhong W.J., Wang D. Comparison of Dynamic Characteristics of Different Types of Urban Spatial Activities in Shanghai--Exploration Based on Cell Phone Signaling Data[C]//China Society of Urban Planning, Shenyang Municipal People's Government. 60 Years of Planning: Achievements and Challenges - Proceedings of the 2016 Annual Conference on Urban Planning in China (04 Application of New Technologies in Urban Planning), 2016:479-494.
 - Zhong W.J., Wang D. Research on Dynamic Characteristics of Spatial Activity Based on Cell Phone Signaling Data--Taking Zhangjiang Hi-Tech Park in Shanghai as an Example[C]//China Society of Urban Planning, Shenyang Municipal People's Government. 60 Years of Planning: Achievements and Challenges - Proceedings of the 2016 Annual Conference on Urban Planning in China (04 Application of New Technologies in Urban Planning),2016:495-508.
