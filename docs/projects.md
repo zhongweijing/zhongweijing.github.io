@@ -11,20 +11,19 @@ title: "Projects"
 
 ## Special Planning 
 ### Green Spaces
-- **Hangzhou Green Space System Special Planning（2021-2035）**, 主持，2019-2024.
-- 杭州市公园体系建设规划，为主，2019-2022.
+- Hangzhou Green Space System Special Planning (2021-2035), Project Leader, 2019-2024.
+- Hangzhou Park System Construction Planning, Main Planner, 2019-2022.
   
-- “三江汇”杭州未来城市实践区公共服务设施专项规划，为主，2021-2022.
-- 江山市城乡消防专项规划（2021-2035年），为主，2021-2024.
-  
-### Culture
-- 杭州市文化设施近期建设规划，为主，2019-2020.
-- 
-### Education
-- 杭州城西科创大走廊中小学、幼儿园布局专项规划，为主，2021-2022.
-- 杭州基础教育专项规划，为主，2018-2021.
-- 西湖区学前教育设施布点规划，为主，2018-2020.
-- 西湖区中小学布点规划（修编），为主，2018-2020。
+### Public Service Facilities
+- “Three Rivers Convergence” Hangzhou Future City Practice Zone Public Service Facilities Special Planning, Main Planner, 2021-2022.
+- Jiangshan Urban and Rural Firefighting Special Planning (2021-2035), Main Planner, 2021-2024.
+- Hangzhou Cultural Facility Recent Construction Planning, Main Planner, 2019-2020.
+
+### Education 
+- Hangzhou West Science and Technology Innovation Corridor Primary and Secondary School, Kindergarten Layout Special Planning, Main Planner, 2021-2022.
+- Hangzhou Basic Education Facilities Special Planning, Main Planner, 2018-2021.
+- Hangzhou Xihu District Preschool Education Facility Layout Planning, Main Planner, 2018-2020.
+- Hangzhou Xihu District Primary and Secondary School Layout Planning, Main Planner, 2018-2020.
 
   
 ## Detailed Planning
