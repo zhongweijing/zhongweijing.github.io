@@ -3,8 +3,7 @@ layout: default
 title: "Projects"
 ---
  
-<h2>Strategic Planning</h2>
----
+## Strategic Planning
 
 - Yuhang District 14th Five-Year Culture, Sports and Tourism Development Plan, Main Planner, 2021.
 - Linping District 14th Five-Year Cultural, Tourism, and Sports Development Plan, Main Planner, 2021.
@@ -12,7 +11,6 @@ title: "Projects"
 
 
 ## Special Planning 
----
 
 ### Green Spaces
 - Hangzhou Green Space System Special Planning (2021-2035), Project Leader, 2019-2024.
@@ -37,7 +35,6 @@ title: "Projects"
 
 
 ## Planning Review and Report
----
 
 - Feasibility Study Report on the Relocation and Site Selection of Hangzhou Children's Park, Main Planner, 2022-2023.
 - Regulatory Unit Division and Key Land Parcel Control Plan Research for Jiangshan Central Urban Area, Main Planner, 2022-2023.
@@ -47,7 +44,6 @@ title: "Projects"
 - Implementation Assessment Report on Hangzhou Green Space System Planning (2007-2020), Main Planner, 2019-2020.
 
 ## Awards
----
 
 - Hangzhou Green Space System Special Planning (2021-2035), Hangzhou Excellent Landscape Engineering Award (Planning Design), First Prize, 2024.
 - Strategic Planning for the Cultural and Artistic Corridor of Qiantang River - Fuchun River - Xin 'an River, Zhejiang Provincial Outstanding Land and Spatial Planning Design Award, First Prize, 2023.
