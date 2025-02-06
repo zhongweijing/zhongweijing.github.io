@@ -85,7 +85,7 @@ nav a.active {
 /* ======= 主要内容样式 ======= */
 main {
     margin: auto;
-    padding-top: 60px;
+    padding-top: 20px;
     font-size: 16px;  /* 设置字体大小 */
     line-height: 1.8; /* 设置行间距 */
 }
