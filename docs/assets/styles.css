@@ -45,20 +45,20 @@ nav a.active {
 
 /* ======= 主容器 ======= */
 .container {
-    max-width: 900px;
-    margin: 100px auto 50px auto;
-    padding: 20px;
-    text-align: left;
+    max-width: 900px;    /* 限制最大宽度为 900px，防止过宽 */
+    margin: 100px auto 50px auto;  /* 上 100px，左右自动居中，下 50px */
+    padding: 20px;       /* 内容四周的内边距 */
+    text-align: left;    /* 文本默认左对齐 */
 }
 .section {
-    display: grid;
+    display: grid;  /* 启用 CSS Grid 布局 */
     grid-template-columns: 1fr; /* 改成单列*/
-    gap: 20px;
+    gap: 20px;  /* 两列之间的间距 */
 }
 .box {
-    padding: 10px;
-    border: 1px solid #ddd;
-    background: #f4f4f4;
+    padding: 10px;         /* 内边距 */
+    border: 1px solid #ddd;  /* 灰色边框 */
+    background: #f4f4f4;   /* 灰色背景 */
 }
 
 /* ======= 个人信息布局 ======= */
