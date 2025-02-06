@@ -14,6 +14,16 @@ title: "Research"
 杭州市公园体系研究，杭州市园林文物局，参与，2019-2021.
 “四区三县（市）”园林绿化融入全域化管理的规划研究及对策，杭州市园林文物局，参与，2019-2021.
 
+- Research on the Planning of Pastoral Parks in Hangzhou, Hangzhou Bureau of Planning and Natural Resources, Main Planner, 2022-2023.
+- Study on Tent Camping Space Demand Preferences and Planning Guidance in Hangzhou from a Human-Centered Perspective, Hangzhou Planning & Design Research Institute, Main Planner, 2023-2024.
+- Study on the Suitability and Compatibility of Public Service Facility Multi-functional Utilization from the Perspective of Spatial Efficiency, Hangzhou Planning & Design Research Institute, Main Planner, 2023-2024.
+- Research on the Transmission Mechanism of Hangzhou Green Space System Special Planning to Detailed Regulatory Planning, Hangzhou Bureau of Landscape and Cultural Heritage, Main Planner, 2021-2023.
+- Analysis of Nursery Facility Demand and Research on Construction Models, Hangzhou Planning & Design Research Institute, Project Leader, 2021.
+- Yungu Innovative Space Planning and Research, Main Planner, 2020.
+- Research on the Optimization and Enhancement of Basic Education Facilities in the West Hangzhou Sci-Tech Corridor, West Hangzhou Sci-Tech Corridor Management Committee, Main Planner, 2019-2020.
+- Hangzhou Park System Research, Hangzhou Bureau of Landscape and Cultural Heritage, Participat, 2019-2021.
+- Research on the Integration of Urban Greening Management across "Four Districts and Three Counties (Cities)" and Countermeasures, Hangzhou Bureau of Landscape and Cultural Heritage, Participat, 2019-2021.
+
 
 杭州少儿（儿童）公园迁建选址研究，为主，2022.
 江山市中心城区控规单元划分及重要地块控规成果研究，为主，2022.
