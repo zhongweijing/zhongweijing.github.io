@@ -31,6 +31,14 @@ title: "Projects"
 - Hangzhou Linping District Chaoshan-Dingshan Lake Unit (LP23) Detailed Planning, Main Planner, 2023-2024.
 - Hangzhou Urban Parks Recent Construction and Three-Year Action Implementation Plan, Participant, 2022-2024.
 
+## Planning Review and Research Report
+- Feasibility Study Report on the Relocation and Site Selection of Hangzhou Children's Park, Main Planner, 2022-2023.
+- Regulatory Unit Division and Key Land Parcel Control Plan Research for Jiangshan Central Urban Area, Main Planner, 2022-2023.
+- Feasibility Study Report on Hangzhou Expo Park, Project Leader, 2021-2022.
+- Implementation Assessment of Hangzhou Xixi National Wetland Park Master Plan, Main Planner, 2021.
+- Site Selection Planning for Large-Scale Exhibitions in Hangzhou—Large-Scale Landscape and Horticulture Exhibitions, Project Leader, 2020-2021.
+- Implementation Assessment Report on Hangzhou Green Space System Planning (Revised Edition) (2007-2020), Main Planner, 2019-2020.
+
 ## Awards
 - Hangzhou Green Space System Special Planning (2021-2035), Hangzhou Excellent Landscape Engineering Award (Planning Design), First Prize, 2024.
 - Strategic Planning for the Cultural and Artistic Corridor of Qiantang River - Fuchun River - Xin 'an River, Zhejiang Provincial Outstanding Land and Spatial Planning Design Award, First Prize, 2023.
