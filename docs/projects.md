@@ -20,20 +20,29 @@ title: "Projects"
 <div class="section" markdown="1">
 
 ## Special Planning 
+
+<div class="box" markdown="1">
 ### Green Spaces
 - Hangzhou Green Space System Special Planning (2021-2035), Project Leader, 2019-2024.
 - Hangzhou Park System Construction Planning, Main Planner, 2019-2022.
-  
+</div> <!-- 结束 .box -->
+
+<div class="box" markdown="1">
+
 ### 🏛 Public Service Facilities
 - “Three Rivers Convergence” Hangzhou Future City Practice Zone Public Service Facilities Special Planning, Main Planner, 2021-2022.
 - Jiangshan Urban and Rural Firefighting Special Planning (2021-2035), Main Planner, 2021-2024.
 - Hangzhou Cultural Facility Recent Construction Planning, Main Planner, 2019-2020.
+</div> <!-- 结束 .box -->
+
+<div class="box" markdown="1">
 
 ### Education 
 - Hangzhou West Science and Technology Innovation Corridor Primary and Secondary School, Kindergarten Layout Special Planning, Main Planner, 2021-2022.
 - Hangzhou Basic Education Facilities Special Planning, Main Planner, 2018-2021.
 - Hangzhou Xihu District Preschool Education Facility Layout Planning, Main Planner, 2018-2020.
 - Hangzhou Xihu District Primary and Secondary School Layout Planning, Main Planner, 2018-2020.
+</div> <!-- 结束 .box -->
 
 </div> <!-- 结束 .section -->
 
