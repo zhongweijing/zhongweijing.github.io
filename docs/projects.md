@@ -3,7 +3,7 @@ layout: default
 title: "Projects"
 ---
  
-## Strategic Planning
+<h2 >Strategic Planning</h2>
 ---
 
 - Yuhang District 14th Five-Year Culture, Sports and Tourism Development Plan, Main Planner, 2021.
@@ -17,7 +17,6 @@ title: "Projects"
 ### Green Spaces
 - Hangzhou Green Space System Special Planning (2021-2035), Project Leader, 2019-2024.
 - Hangzhou Park System Construction Planning, Main Planner, 2019-2022.
-</div> <!-- 结束 .box -->
 
 
 ### 🏛 Public Service Facilities
