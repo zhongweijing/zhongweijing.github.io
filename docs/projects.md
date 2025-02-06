@@ -3,7 +3,7 @@ layout: default
 title: "Projects"
 ---
  
-<h2 >Strategic Planning</h2>
+<h2>Strategic Planning</h2>
 ---
 
 - Yuhang District 14th Five-Year Culture, Sports and Tourism Development Plan, Main Planner, 2021.
