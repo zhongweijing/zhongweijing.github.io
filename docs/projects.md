@@ -7,7 +7,7 @@ title: "Projects"
 ## Strategic Planning
 - Yuhang District 14th Five-Year Culture, Sports and Tourism Development Plan, Main Planner, 2021.
 - Linping District "14th Five-Year" Cultural, Tourism, and Sports Development Plan, Main Planner, 2021.
-- Strategic Planning for the Cultural and Artistic Corridor of Qiantang River - Fuchun River - Xin 'an River, Participating Planer, 2020.
+- Strategic Planning for the Cultural and Artistic Corridor of Qiantang River - Fuchun River - Xin 'an River, Participant, 2020.
 
 ## Special Planning 
 ### Green Spaces
@@ -27,11 +27,9 @@ title: "Projects"
 
   
 ## Detailed Planning
-- **Yungu Innovative Space Planning and Research**, 为主，2020.
-- 临平区嵌入式体育场地设施专项行动规划（2022-2025年），为主，2022-2023.
-- 杭州市临平区超山丁山湖单元（LP23）详细规划，为主，2023-2024.
-- 杭州市区城市公园近期建设及三年行动实施方案，参与，2022-2024.
-
+- Linping District Embedded Sports Venue Facilities Special Action Planning (2022-2025), Main Planner, 2022-2023.
+- Hangzhou Linping District Chaoshan-Dingshan Lake Unit (LP23) Detailed Planning, Main Planner, 2023-2024.
+- Hangzhou Urban Parks Recent Construction and Three-Year Action Implementation Plan, Participant, 2022-2024.
 
 ## Awards
 
