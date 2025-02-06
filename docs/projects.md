@@ -3,12 +3,21 @@ layout: default
 title: "Projects"
 ---
 
-
+<!-- 主容器 -->
+<div class="container">
+  
+<!-- 第一部分 -->
+<div class="section">
+  
 ## Strategic Planning
---- 
 - Yuhang District 14th Five-Year Culture, Sports and Tourism Development Plan, Main Planner, 2021.
 - Linping District 14th Five-Year Cultural, Tourism, and Sports Development Plan, Main Planner, 2021.
 - Strategic Planning for the Cultural and Artistic Corridor of Qiantang River - Fuchun River - Xin 'an River, Participant, 2020.
+
+</div> <!-- 结束 .section -->
+
+<!-- 第二部分 -->
+<div class="section">
 
 ## Special Planning 
 ### Green Spaces
@@ -26,11 +35,17 @@ title: "Projects"
 - Hangzhou Xihu District Preschool Education Facility Layout Planning, Main Planner, 2018-2020.
 - Hangzhou Xihu District Primary and Secondary School Layout Planning, Main Planner, 2018-2020.
 
+</div> <!-- 结束 .section -->
+
+<!-- 第三部分 -->
+<div class="section">
   
 ## Detailed Planning
 - Linping District Embedded Sports Venue Facilities Special Action Planning (2022-2025), Main Planner, 2022-2023.
 - Hangzhou Linping District Chaoshan-Dingshan Lake Unit (LP23) Detailed Planning, Main Planner, 2023-2024.
 - Hangzhou Urban Parks Recent Construction and Three-Year Action Implementation Plan, Participant, 2022-2024.
+
+</div> <!-- 结束 .section -->
 
 ## Planning Review and Report
 - Feasibility Study Report on the Relocation and Site Selection of Hangzhou Children's Park, Main Planner, 2022-2023.
