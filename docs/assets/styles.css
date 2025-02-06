@@ -90,7 +90,10 @@ main {
     line-height: 1.8; /* 设置行间距 */
 }
 h2 {
-    color: lightblue;
+    color: #1E3A8A;  /* 深蓝色 */
+    background-color: #F3F4F6; /* 浅灰色背景 */
+    padding: 10px;
+    border-radius: 5px;
 }
 p {
     margin-bottom: 15px;
