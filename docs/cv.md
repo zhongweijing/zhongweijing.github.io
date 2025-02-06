@@ -14,8 +14,8 @@ title: "About Me"
 - **Urban Planner**, Hangzhou City Planning and Design Academy(2017 - 2024).
 
 ## Awards
-- Outstanding Graduate in Shanghai (top 5%), 2017.
-- National Scholarship (top 5%), 2016.
+- Outstanding Graduate in Shanghai, China (top 5%), 2017.
+- Chinese National Scholarship (top 5%), 2016.
 - Outstanding Master's Scholarship (top 5%), 2016.
 - Outstanding Undergraduate Graduates (top 10%), 2014.
 - First Prize of Graduation Thesis (top 1%), 2014.
