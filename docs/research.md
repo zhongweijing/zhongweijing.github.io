@@ -4,7 +4,23 @@ title: "Research"
 ---
 
 ## Research Projects
+杭州市田园公园规划研究，杭州市规划和自然资源局，为主，2022-2023.
+人本视角下杭州帐篷露营空间需求偏好与规划引导研究，杭州市规划设计研究院，为主，2023-2024.
+空间效率视角下公共服务设施复合利用的适宜度与兼容度研究，杭州市规划设计研究院，为主，2023-2024.
+杭州市绿地系统专项规划向控规单元传导机制研究，杭州市园林文物局，为主，2021-2023.
+托育设施配套需求分析及配建模式研究，杭州市规划设计研究院，主持，2021.
 - **Yungu Innovative Space Planning and Research**, 为主，2020.
+城西科创大走廊基础教育设施提升优化研究, 杭州城西科创产业集聚区管委会，为主，2019-2020.
+杭州市公园体系研究，杭州市园林文物局，参与，2019-2021.
+“四区三县（市）”园林绿化融入全域化管理的规划研究及对策，杭州市园林文物局，参与，2019-2021.
+
+
+杭州少儿（儿童）公园迁建选址研究，为主，2022.
+江山市中心城区控规单元划分及重要地块控规成果研究，为主，2022.
+杭州园博园前期研究，主持，2021.
+杭州西溪国家湿地公园总体规划实施评估，为主，2021.
+《杭州市绿地系统规划（修编）》(2007-2020)实施评估报告，为主，2019-2020.
+杭州市大型展会选址规划研究——大型园林园艺会展，主持，2020-2021.
 
 - Research on the Transmission Mechanism from Green Space System Special Planning to Detailed Planning, Research Project of Hangzhou Garden and Cultural Relics Bureau, 2021-2022.
 - Research on the Assessment of Urban Built Environment based on Cell Phone Signaling Data, Science and Technology Talent Programme of Shanghai Municipal Science and Technology Commission 2016-2019.
