@@ -13,7 +13,6 @@ title: Home
     </div>
 </div>
 
-### About Me
 I am now a lecturer and research associate in Technical University of Munich, Germany, and also affiliated with the GIScience group in Heidelberg Universtiy. Prior to TUM, I received my Ph.D. in the GIScience research group at the Institute of Geography in Heidelberg University, Germany. I got my MS.c degree from University of Stuttgart, Germany, where I was major in Geomatics engineering. Before came to Germany, I got my double BS.c degrees in both Geographical Information Systems and Computer Science at Wuhan University, China.
 负责或为主参与了中国的法定规划（专项规划、详细规划等）、政府部门的专题研究、发展规划、设施布局选址等项目50余个，获得省、市级优秀项目奖7项。主要方向为城市空间发展战略与研究、公共服务设施规划布局、绿色空间规划等。
 
