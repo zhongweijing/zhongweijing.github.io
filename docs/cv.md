@@ -18,10 +18,18 @@ title: "About Me"
 - Registered Consulting Engineer (China)
 
 ## Awards
+### 个人荣誉
 - Outstanding Graduate in Shanghai, China (top 5%), 2017.
 - Chinese National Scholarship (top 5%), 2016.
 - Outstanding Master's Scholarship (top 5%), 2016.
 - Outstanding Undergraduate Graduates (top 10%), 2014.
-- First Prize of Graduation Thesis (top 1%), 2014.
 - Outstanding Student (top 5%),2013.
-- First Prize of People's Scholarship (top 5%),serveral 
+- First Prize of People's Scholarship (top 5%),serveral
+  
+### 学术研究奖项
+- Application of Cell Phone Signaling Data in the Evaluation of Built Environment in Meso-Cities, Outstanding Paper Award of China Urban Geography Academic Annual Conference, 2015.
+
+- First Prize of Graduation Thesis (top 1%), 2014.
+
+### 规划设计奖项
+
