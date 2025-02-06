@@ -21,3 +21,5 @@ title: "Research"
 - Zhang M., Wu W., **Zhong W.J.** et al.The Reshaping of Social Relations: Resettled Rural Residents in Zhenjiang, China[J], Cities, 2016, 60 (PT.B):495-503.DOI:10.1016/j.cities.2016.06.007.
 - 
 ### Conference Proceedings 
+- Understanding the Space-time Structure of Urban Activity Space based on the Cell Phone Signaling Data: A Case Study of Shanghai, IV World Planning Schools Congress(Top Conference for Planning Major), First Author, 2016.
+- The Nighttime Vitality in the City Center of Shanghai and the Impact of Urban Built Environment: An Exploratory Study Using Cell Phone Data, IGU Urban Commission Annual Meeting(Top Conference for Geography Major), First Author, 2016.
