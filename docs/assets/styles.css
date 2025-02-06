@@ -94,7 +94,11 @@ h2 {
     background-color: #F3F4F6; /* 浅灰色背景 */
     padding: 10px;
     border-radius: 5px;
+    border-bottom: 3px solid #1E3A8A; /* 横线等宽 */
+    width: 100%; /* 让 h2 占满父容器 */
+    box-sizing: border-box; /* 防止 padding 影响宽度 */
 }
+
 p {
     margin-bottom: 15px;
 }
