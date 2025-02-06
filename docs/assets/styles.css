@@ -50,6 +50,16 @@ nav a.active {
     padding: 20px;
     text-align: left;
 }
+.section {
+    display: grid;
+    grid-template-columns: 1fr; /* 改成单列*/
+    gap: 20px;
+}
+.box {
+    padding: 10px;
+    border: 1px solid #ddd;
+    background: #f4f4f4;
+}
 
 /* ======= 个人信息布局 ======= */
 .profile {
