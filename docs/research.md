@@ -8,6 +8,9 @@ title: "Research"
 - Research on the Transmission Mechanism from Green Space System Special Planning to Detailed Planning, Research Project of Hangzhou Garden and Cultural Relics Bureau, 2021-2022
 - Research on the Assessment of Urban Built Environment based on Cell Phone Signaling Data, Science and Technology Talent Programme of Shanghai Municipal Science and Technology Commission 2016-2019
 
+## Thesis
+- The Classification and Characteristics of Urban Activity Space in Shanghai Central City Based on Mobile Phone Signaling Data, 2017.
+
 ## Conferences
 
 ## Publications
