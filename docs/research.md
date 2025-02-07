@@ -22,7 +22,7 @@ title: "Research"
 ### Journal Papers 
 - **Zhong, W. J.**, Ding, X. P., & Wang, J., et al. (2023). Exploratory thoughts on the construction of Greenland system planning indicator system under territorial spatial planning system: Taking Hangzhou city as an example. *Zhejiang Land Resources*, (4), 32-34. https://doi.org/10.16724/j.cnki.cn33-1290/p.2023.04.017
 - Dong, G. H., **Zhong, W. J.**, Jin, S. S., et al. (2022). Exploration on the construction of conveyance system from green space system special planning to detailed control planning: Taking Hangzhou as an example. *The Planner*, (00), 52-64.
-- Zhu, C. S., Wang, X., Wang, D., Zhang, T., **Zhong, W. J**. (2021). Research on the spatial connection of Taobao village in Haining city based on operation process. *Shanghai Urban Planning*, (2), 36-41.
+- Zhu, C. S., Wang, X., Wang, D., Zhang, T., **Zhong, W. J**. (2021). Spatial connection of Taobao village in Haining based on the operation process. *Shanghai Urban Planning View*, (2), 36-41. doi.10.11982/j.supr.20210206.
 - **Zhong, W. J.**, & Wang, D. (2019). A study on the spatial characteristics of nighttime vitality in the city center of Shanghai. *City Planning Review*, 43(6), 97-106+114. https://doi.org/10.11819/cpr20190615a
 - **Zhong, W. J.**, & Wang, D. (2019). Research on spatial characteristics of nighttime vitality in downtown Shanghai. *Urban Planning*, 43(6), 97-106+114.
 - **Zhong, W. J.**, & Wang, D. (2018). Urban space study based on the temporal characteristics of residents' behavior. *Progress in Geography*, 37(8), 1106-1118. https://doi.org/10.18306/dlkxjz.2018.08.010
@@ -34,6 +34,10 @@ title: "Research"
 - Wang, D., Wang, C., Xie, D. C., **Zhong, W. J.**, Wu, M., Zhu, W., Zhou, J. P., & Li, Y. (2015). Comparison of shopping districts of different levels of commercial centers in Shanghai based on cell phone signaling data: Taking East Nanjing Road, Wujiaochang, and Anshan Road as an example. *Urban Planning Forum*, (3), 50-60.
 
 ### Conference Proceedings 
+- **Zhong, W.**, Zhong, J., Ding, S., & Ren, X. (2023). Supply and demand characteristics and planning strategies of childcare facilities in Hangzhou from a child-friendly perspective. In People’s City, Planning Empowerment—Proceedings of the 2023 China Urban Planning Annual Conference (Vol. 07: Urban Design, pp. 451–465). China Urban Planning Society.[link](https://www.cnki.net/KCMS/detail/detail.aspx?dbcode=CPFD&dbname=CPFDLAST2024&filename=ZHCG202309033040&uniplatform=OVERSEA&v=ONm8tbqGEURBJgI5D_lMDOw1ljPEP9KYepEkMVd_bA_FGdnwO7_qKCPXUCAsmfV65xpDMdO5lyI%3d)
+- **Zhong, W.**, Zhong, J., Ding, S., Ren, X., & Jin, S. (2023). Supply and demand characteristics and planning strategies of basic educational facilities in sci-tech innovation areas under the background of high-quality development—A case study of the Western Hangzhou Sci-tech Innovation Corridor. In People’s City, Planning Empowerment—Proceedings of the 2023 China Urban Planning Annual Conference (Vol. 13: Planning Implementation and Management, pp. 40–53). China Urban Planning Society.[link](https://www.cnki.net/KCMS/detail/detail.aspx?dbcode=CPFD&dbname=CPFDLAST2023&filename=ZHCG202309037005&uniplatform=OVERSEA&v=ONm8tbqGEUQubzABQ__AmTf7QASslZz3FJgtV_2ZT2wTqgfYBAcp22F-aotX5IsQNZPSgbwpG2I%3d)
+
+
 - Zhong, J. L., **Zhong, W. J.**, Ding, S., et al. (2021). Research on supply and demand characteristics of basic education facilities and strategies of spatial configuration enhancement under the background of "comprehensive two-child" policy: Taking Hangzhou city as an example. *In Spatial Governance for High-Quality Development—Proceedings of the Annual Conference on Urban Planning in China 2020* (pp. 450-462). China Society of Urban Planning, Chengdu Municipal People's Government. https://doi.org/10.26914/c.cnkihy.2021.037197
 - **Zhong, W. J.**, & Wang, D. (2016). Comparison of dynamic characteristics of different types of urban spatial activities in Shanghai: Exploration based on cell phone signaling data. *In 60 Years of Planning: Achievements and Challenges—Proceedings of the 2016 Annual Conference on Urban Planning in China* (pp. 479-494). China Society of Urban Planning, Shenyang Municipal People's Government.
 - **Zhong, W. J.**, & Wang, D. (2016). Research on dynamic characteristics of spatial activity based on cell phone signaling data: Taking Zhangjiang Hi-Tech Park in Shanghai as an example. *In 60 Years of Planning: Achievements and Challenges—Proceedings of the 2016 Annual Conference on Urban Planning in China* (pp. 495-508). China Society of Urban Planning, Shenyang Municipal People's Government.
@@ -41,7 +45,7 @@ title: "Research"
 
   
 
-- Zhong, W. J. (2023). Supply and demand characteristics and planning strategies of basic education facilities in science and innovation areas under the background of high-quality development: Taking Hangzhou West Science and Innovation Corridor as an example. In Proceedings of 2023 China Urban Planning Annual Conference.
-Zhong, W. J. (2023). Supply and demand characteristics of Hangzhou's childcare facilities under the perspective of child-friendliness and strategies of allocating them. In Proceedings of 2023 China Urban Planning Annual Conference.
+
+
 Zhong, W. J. (2016). Understanding the space-time structure of urban activity space based on the cell phone signaling data: A case study of Shanghai. In IV World Planning Schools Congress (pp. xx-xx).
 Zhong, W. J. (2016). The nighttime vitality in the city center of Shanghai and the impact of urban built environment: An exploratory study using cell phone data. In IGU Urban Commission Annual Meeting (pp. xx-xx).
