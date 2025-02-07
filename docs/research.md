@@ -21,6 +21,8 @@ title: "Research"
 ## Publications
 ### Journal Papers 
 - **Zhong, W.**, Ding, X., & Wang, J., et al. (2023). Exploratory thoughts on the construction of Greenland system planning indicator system under territorial spatial planning system: Taking Hangzhou city as an example. *Zhejiang Land and Resources*, (4), 32-34. [DOI](https://doi.org/10.16724/j.cnki.cn33-1290/p.2023.04.017)
+  <a href="https://doi.org/10.16724/j.cnki.cn33-1290/p.2023.04.017" target="_blank">Click here to visit Example</a>
+
 - Dong, G., **Zhong, W.**, Jin, S., et al. (2022). Exploration on the construction of conveyance system from green space system special planning to detailed control planning: Taking Hangzhou as an example. *The Planner*, (00), 52-64.[DOI](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=GHSL202200007)
 [link](https://www.cnki.net/KCMS/detail/detail.aspx?dbcode=CCJD&dbname=CCJDLAST2&filename=GHSL202200007&uniplatform=OVERSEA&v=TFGihc36lBtyUPESVYKIpQTi-Bhz-Skg0wCGDCVBo2Ehp3nro4ZKnsiIWeTY8d4y)
 - Zhu, C. S., Wang, X., Wang, D., Zhang, T., **Zhong, W. J**. (2021). Spatial connection of Taobao village in Haining based on the operation process. *Shanghai Urban Planning View*, (2), 36-41. [DOI](https://doi.org/10.11982/j.supr.20210206)
