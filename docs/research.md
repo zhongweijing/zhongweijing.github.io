@@ -23,12 +23,16 @@ title: "Research"
 - **Zhong, W.**, Ding, X., & Wang, J., et al. (2023). Exploratory thoughts on the construction of Greenland system planning indicator system under territorial spatial planning system: Taking Hangzhou city as an example. *Zhejiang Land and Resources*, (4), 32-34.
 <a href="https://doi.org/10.16724/j.cnki.cn33-1290/p.2023.04.017" target="_blank">DOI</a>
   
-- Dong, G., **Zhong, W.**, Jin, S., et al. (2022). Exploration on the construction of conveyance system from green space system special planning to detailed control planning: Taking Hangzhou as an example. *The Planner*, (00), 52-64.<a href="https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=GHSL202200007" target="_blank">DOI</a>
-
-[DOI](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=GHSL202200007)
+- Dong, G., **Zhong, W.**, Jin, S., et al. (2022). Exploration on the construction of conveyance system from green space system special planning to detailed control planning: Taking Hangzhou as an example. *The Planner*, (00), 52-64.
+<a href="https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=GHSL202200007" target="_blank">DOI</a>
 [link](https://www.cnki.net/KCMS/detail/detail.aspx?dbcode=CCJD&dbname=CCJDLAST2&filename=GHSL202200007&uniplatform=OVERSEA&v=TFGihc36lBtyUPESVYKIpQTi-Bhz-Skg0wCGDCVBo2Ehp3nro4ZKnsiIWeTY8d4y)
-- Zhu, C. S., Wang, X., Wang, D., Zhang, T., **Zhong, W. J**. (2021). Spatial connection of Taobao village in Haining based on the operation process. *Shanghai Urban Planning View*, (2), 36-41. [DOI](https://doi.org/10.11982/j.supr.20210206)
+
+- Zhu, C. S., Wang, X., Wang, D., Zhang, T., **Zhong, W. J**. (2021). Spatial connection of Taobao village in Haining based on the operation process. *Shanghai Urban Planning View*, (2), 36-41.
+<a href="https://doi.org/10.11982/j.supr.20210206" target="_blank">DOI</a>
+
 - **Zhong, W.**, & Wang, D. (2019). A study on the spatial characteristics of nighttime vitality in the city center of Shanghai. *City Planning Review*, 43(6), 97-106+114. [DOI](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=CSGH201906021)
+<a href="https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=CSGH201906021" target="_blank">DOI</a>
+
 - **Zhong, W.**, & Wang, D. (2018). Urban space study based on the temporal characteristics of residents' behavior. *Progress in Geography*, 37(8), 1106-1118. [DOI](https://doi.org/10.18306/dlkxjz.2018.08.010)
 - Xie, D., Wang, D., **Zhong, W.**, et al. (2018). Assessment and analysis on built environment of Shanghai: An exploration based on mobile phone signaling data. *Urban Planning Review*, 42(10), 97-108+120.[DOI](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=CSGH201810014)
 - **Zhong, W.**, Wang, D., & Xie, D., et al. (2017). Dynamic characteristics of Shanghai's population distribution using cell phone signaling data. *Geographical Research*, 36(5), 972-984.[link](https://www.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2017&filename=DLYJ201705014&uniplatform=OVERSEA&v=qFQi8W3bOsi3GmyBI0UXXxjldNbjRayOytEyHv_fGobxrUS7hWVX5GF5WQ_IJgV7)
