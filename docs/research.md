@@ -4,15 +4,15 @@ title: "Research"
 ---
 
 ## Research Projects
-- Research on the Planning of Pastoral Parks in Hangzhou, Hangzhou Bureau of Planning and Natural Resources, Main Planner, 2022-2023.
+- Research on the Pastoral Parks Planning in Hangzhou, Hangzhou Bureau of Planning and Natural Resources, Main Planner, 2022-2023.
 - Study on Tent Camping Space Demand Preferences and Planning Guidance in Hangzhou from a Human-Centered Perspective, Hangzhou Planning & Design Research Institute, Main Planner, 2023-2024.
 - Study on the Suitability and Compatibility of Public Service Facility Multi-functional Utilization from the Perspective of Spatial Efficiency, Hangzhou Planning & Design Research Institute, Main Planner, 2023-2024.
 - Research on the Transmission Mechanism of Hangzhou Green Space System Special Planning to Detailed Regulatory Planning, Hangzhou Bureau of Landscape and Cultural Heritage, Main Planner, 2021-2023.
-- Analysis of Nursery Facility Demand and Research on Construction Models, Hangzhou Planning & Design Research Institute, Project Leader, 2021.
+- Research on the Nursery Facility Demand and Planning and Construction Models, Hangzhou Planning & Design Research Institute, Project Leader, 2021.
 - Yungu Innovative Space Planning and Research, Main Planner, 2020.
 - Research on the Optimization and Enhancement of Basic Education Facilities in the West Hangzhou Sci-Tech Corridor, West Hangzhou Sci-Tech Corridor Management Committee, Main Planner, 2019-2020.
 - Hangzhou Park System Research, Hangzhou Bureau of Landscape and Cultural Heritage, Participat, 2019-2021.
-- Research on the Integration of Urban Greening Management across "Four Districts and Three Counties (Cities)" and Countermeasures, Hangzhou Bureau of Landscape and Cultural Heritage, Participat, 2019-2021.
+- Research on the Integration of Urban Greening Management across "Four Districts and Three Counties" and Countermeasures, Hangzhou Bureau of Landscape and Cultural Heritage, Participat, 2019-2021.
 - Research on the Assessment of Urban Built Environment based on Cell Phone Signaling Data, Science and Technology Talent Programme of Shanghai Municipal Science and Technology Commission，Main Planner，2016-2019.
 
 ## Thesis
