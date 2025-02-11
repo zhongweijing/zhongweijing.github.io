@@ -19,11 +19,8 @@ title: "About Me"
 ## Awards
 ### Personal Honors
 - Outstanding Graduate in Shanghai, China (top 5%), 2017.
-- Chinese National Scholarship (top 5%), 2016.
-- Outstanding Master's Scholarship (top 5%), 2016.
 - Outstanding Undergraduate Graduates (top 10%), 2014.
 - Outstanding Student (top 5%),2013.
-- First Prize of People's Scholarship (top 5%),2010-2012.
 
 ### Planning & Design Awards
 - Special Planning for the Green Space System of Hangzhou (2021-2035), First Prize, Hangzhou Excellent Landscape Architecture Project Award (Planning & Design), 2024.
@@ -38,5 +35,9 @@ title: "About Me"
 
 
 ### Academic Awards
+- Chinese National Scholarship (top 5%), 2016.
+- Outstanding Master's Scholarship (top 5%), 2016.
 - Application of Cell Phone Signaling Data in the Evaluation of Built Environment in Meso-Cities, Outstanding Paper Award of China Urban Geography Academic Annual Conference, 2015.
 - First Prize of Graduation Thesis (top 1%), 2014.
+- First Prize of People's Scholarship (top 5%),2010-2012.
+
