@@ -3,7 +3,6 @@ layout: default
 title: "About Me"
 ---
 
-  
 ## Education
 - Master of Science in Applied in GIS, National University of Singapore (2024 - Present).
 - Master of Engineering in Town and Country Planning, Tongji University (2014 - 2017).
@@ -18,18 +17,26 @@ title: "About Me"
 - Registered Consulting Engineer (China)
 
 ## Awards
-### 个人荣誉
+### Personal Honors
 - Outstanding Graduate in Shanghai, China (top 5%), 2017.
 - Chinese National Scholarship (top 5%), 2016.
 - Outstanding Master's Scholarship (top 5%), 2016.
 - Outstanding Undergraduate Graduates (top 10%), 2014.
 - Outstanding Student (top 5%),2013.
-- First Prize of People's Scholarship (top 5%),serveral
-  
-### 学术研究奖项
+- First Prize of People's Scholarship (top 5%),2010-2012.
+
+### Planning & Design Awards
+- Special Planning for the Green Space System of Hangzhou (2021-2035), First Prize, Hangzhou Excellent Landscape Architecture Project Award (Planning & Design), 2024.
+- Special Planning for the Cultural and Artistic Corridor across Three Rivers, First Prize, Zhejiang Provincial Outstanding Land and Spatial Planning Design Award,  2023.
+- Implementation Assessment of Hangzhou Xixi National Wetland Park Master Plan, Second Prize, 2023 Hangzhou Excellent Land Spatial Planning Design Award, 2023.
+- Hangzhou Park System Construction Planning, First Prize, Excellent Project of 2018 Zhejiang Provincial Landscape Architecture Association, 2022.
+- Hangzhou Park System Construction Planning, Second Prize, Hangzhou Excellent Urban and Rural Planning and Design Award, 2021.
+- Special Planning for Basic Education in Hangzhou, Third Prize, Hangzhou Excellent Urban and Rural Planning and Design Award, 2021.
+- Implementation Assessment Report on Hangzhou Green Space System Planning (2007-2020), Third Prize, Hangzhou Excellent Urban and Rural Planning and Design Award, 2021.
+- Special Planning for Public Cultural and Sports Facilities in Yuhang District, Hangzhou, Third Prize, Hangzhou Excellent Urban and Rural Planning and Design Award (Urban Planning Category), 2019.
+- Implementation Assessment and Built Environment Evaluation of the Master Plan for Baoshan District Based on an Indicator System, Third Prize, Shanghai Excellent Urban and Rural Planning and Design Award (Urban Planning Category), 2018.
+
+
+### Academic Awards
 - Application of Cell Phone Signaling Data in the Evaluation of Built Environment in Meso-Cities, Outstanding Paper Award of China Urban Geography Academic Annual Conference, 2015.
-
 - First Prize of Graduation Thesis (top 1%), 2014.
-
-### 规划设计奖项
-
