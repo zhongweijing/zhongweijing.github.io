@@ -1,4 +1,3 @@
-
 /* ======= 全局样式 ======= */
 html, body {
     font-family: 'Arial', sans-serif;
@@ -7,6 +6,45 @@ html, body {
     background-color: #ffffff;
     margin: 0;
     padding: 0;
+}
+
+/* ======= 主要内容样式 ======= */
+main {
+    margin: auto;
+    padding-top: 20px;
+    font-size: 16px;  /* 设置字体大小 */
+    line-height: 1.8; /* 设置行间距 */
+}
+h2 {
+    color: #1E3A8A;  /* 深蓝色 */
+    background-color: #F3F4F6; /* 浅灰色背景 */
+    padding: 10px;
+    border-radius: 5px;
+    border-bottom: 3px solid #1E3A8A; /* 横线等宽 */
+    width: 100%; /* 让 h2 占满父容器 */
+    box-sizing: border-box; /* 防止 padding 影响宽度 */
+}
+
+p {
+    margin-bottom: 15px;
+}
+
+/* ======= 主容器 ======= */
+.container {
+    max-width: 900px;    /* 限制最大宽度为 900px，防止过宽 */
+    margin: 0px auto 50px auto;  /* 上 100px，左右自动居中，下 50px */
+    padding: 10px;       /* 内容四周的内边距 */
+    text-align: left;    /* 文本默认左对齐 */
+}
+.section {
+    display: grid;  /* 启用 CSS Grid 布局 */
+    grid-template-columns: 1fr; /* 改成单列*/
+    gap: 20px;  /* 两列之间的间距 */
+}
+.box {
+    padding: 10px;         /* 内边距 */
+    border: 1px solid #ddd;  /* 灰色边框 */
+    background: #f4f4f4;   /* 灰色背景 */
 }
 
 /* ======= 固定导航栏 ======= */
@@ -65,43 +103,7 @@ nav a.active {
     color: #666;
 }
 
-/* ======= 主容器 ======= */
-.container {
-    max-width: 900px;    /* 限制最大宽度为 900px，防止过宽 */
-    margin: 0px auto 50px auto;  /* 上 100px，左右自动居中，下 50px */
-    padding: 10px;       /* 内容四周的内边距 */
-    text-align: left;    /* 文本默认左对齐 */
-}
-.section {
-    display: grid;  /* 启用 CSS Grid 布局 */
-    grid-template-columns: 1fr; /* 改成单列*/
-    gap: 20px;  /* 两列之间的间距 */
-}
-.box {
-    padding: 10px;         /* 内边距 */
-    border: 1px solid #ddd;  /* 灰色边框 */
-    background: #f4f4f4;   /* 灰色背景 */
-}
-/* ======= 主要内容样式 ======= */
-main {
-    margin: auto;
-    padding-top: 20px;
-    font-size: 16px;  /* 设置字体大小 */
-    line-height: 1.8; /* 设置行间距 */
-}
-h2 {
-    color: #1E3A8A;  /* 深蓝色 */
-    background-color: #F3F4F6; /* 浅灰色背景 */
-    padding: 10px;
-    border-radius: 5px;
-    border-bottom: 3px solid #1E3A8A; /* 横线等宽 */
-    width: 100%; /* 让 h2 占满父容器 */
-    box-sizing: border-box; /* 防止 padding 影响宽度 */
-}
 
-p {
-    margin-bottom: 15px;
-}
 
 /* ======= 相关链接 ======= */
 .links a {
