@@ -33,7 +33,7 @@ p {
 .container {
     max-width: 900px;    /* 限制最大宽度为 900px，防止过宽 */
     margin: 0px auto 50px auto;  /* 上 100px，左右自动居中，下 50px */
-    padding: 10px;       /* 内容四周的内边距 */
+    padding: 60px 10px 10px 10px;       /* 内容四周的内边距 */
     text-align: left;    /* 文本默认左对齐 */
 }
 .section {
