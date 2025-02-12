@@ -14,6 +14,6 @@ navigation:
     link: /research
 
 include:
-  - assets/style.css
+  - assets/styles.css
   
 baseurl: ""  # 如果你的 GitHub Pages 不是根域名，需要加这个/zhongweijing.github.io/docs
