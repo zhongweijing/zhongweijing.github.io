@@ -10,8 +10,10 @@ html, body {
 
 /* ======= 主要内容样式 ======= */
 main {
-    margin: auto;
-    padding-top: 60px;
+    max-width: 900px;    /* 限制最大宽度为 900px，防止过宽 */
+    margin: 0px auto 50px auto;  /* 上 100px，左右自动居中，下 50px */
+    padding: 160px 10px 10px 10px;       /* 内容四周的内边距 */
+    text-align: left;    /* 文本默认左对齐 */
     font-size: 16px;  /* 设置字体大小 */
     line-height: 1.8; /* 设置行间距 */
 }
@@ -31,10 +33,6 @@ p {
 
 /* ======= 主容器 ======= */
 .container {
-    max-width: 900px;    /* 限制最大宽度为 900px，防止过宽 */
-    margin: 0px auto 50px auto;  /* 上 100px，左右自动居中，下 50px */
-    padding: 160px 10px 10px 10px;       /* 内容四周的内边距 */
-    text-align: left;    /* 文本默认左对齐 */
 }
 .section {
     display: grid;  /* 启用 CSS Grid 布局 */
