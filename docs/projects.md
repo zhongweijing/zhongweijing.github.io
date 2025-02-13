@@ -6,7 +6,7 @@ title: "Projects"
 ## Strategic Planning
 - Yuhang District 14th Five-Year Culture, Sports and Tourism Development Plan, Main Planner, 2021.
 - Linping District 14th Five-Year Cultural, Tourism, and Sports Development Plan, Main Planner, 2021.
-- Strategic Planning for the Cultural and Artistic Corridor of Qiantang River - Fuchun River - Xin 'an River, Participant, 2020.
+- Strategic Planning for the Cultural and Artistic Corridor of Qiantang River - Fuchun River - Xin'an River, Participant, 2020-2021.
 
 
 ## Special Planning 
@@ -17,6 +17,7 @@ title: "Projects"
 
 
 ### 🏛 Public Service Facilities
+- Hangzhou Cultural Facility Special Planning, Main Planner, 2022-2024.
 - “Three Rivers Convergence” Hangzhou Future City Practice Zone Public Service Facilities Special Planning, Main Planner, 2021-2022.
 - Jiangshan Urban and Rural Firefighting Special Planning (2021-2035), Main Planner, 2021-2024.
 - Hangzhou Cultural Facility Recent Construction Planning, Main Planner, 2019-2020.
