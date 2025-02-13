@@ -12,7 +12,7 @@ title: "Projects"
 ## Special Planning 
 
 ### 🌴Green Spaces
-- Hangzhou Green Space System Special Planning (2021-2035), Project Leader, 2019-2024.
+- Hangzhou Green Space System Special Planning (2021-2035), Project Leader, 2020-2024.
 - Hangzhou Park System Construction Planning, Main Planner, 2019-2022.
 
 
