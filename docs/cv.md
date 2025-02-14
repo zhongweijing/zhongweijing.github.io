@@ -51,8 +51,14 @@ worked in the press department and liaised with media outlets to ensure efficien
   
 Accompanied and supported an international delegation throughout the whole Games. Coordinated logistics, registration, managed the delegation's schedule, and provided seamless assistance where needed.
 
+- Volunteer for the Big Data and Spatiotemporal Behavior Symposium
+
+Assisted my supervisor team in managing all aspects of the event. Coordinated the invitation and communication process with expert speakers, oversaw the conference registration, and arranged accommodations for participants. Additionally, I liaised with the team to align the presentation materials and report content, ensuring a seamless and successful event.
+
 - Volunteer for the Youth Olympic Games, 2018, Hangzhou, China.
 
 Assisted in arranging pick-up and drop-off services for visiting experts. Managed detailed itineraries and coordinated with various service providers to ensure that expert reached their designated venues on time. 
+
+
 
 
