@@ -16,11 +16,11 @@ title: "About Me"
 - Certified Urban-Rural Planner (China)
 - Registered Consulting Engineer (China)
 
-## Awards
+## Honors & awards
 ### Personal Honors
-- Outstanding Graduate in Shanghai, China (Top 5%), 2017- Issued by the Shanghai Municipal Education Commission.
-- Outstanding Undergraduate Graduate (Top 10%), 2014 – Issued by Tongji University.
-- Outstanding Student (Top 5%), 2013 – Issued by Nanjing University.
+- Outstanding Graduate in Shanghai, China (Top 5%), 2017, Issued by the Shanghai Municipal Education Commission.
+- Outstanding Undergraduate Graduate (Top 10%), 2014, Issued by Tongji University.
+- Outstanding Student (Top 5%), 2013, Issued by Nanjing University.
 
 ### Planning & Design Awards
 - Special Planning for the Green Space System of Hangzhou (2021-2035), First Prize, Hangzhou Excellent Landscape Architecture Project Award (Planning & Design), 2024.
@@ -35,9 +35,17 @@ title: "About Me"
 
 
 ### Academic Awards
-- Chinese National Scholarship (Top 5%), 2016 – Issued by the Ministry of Education of China.
-- Outstanding Master's Scholarship (Top 5%), 2016 – Issued by Tongji University.
-- Application of Cell Phone Signaling Data in the Evaluation of Built Environment in Meso-Cities, Outstanding Paper Award, 2015 – Issued by the China Urban Geography Academic Annual Conference.
-- First Prize of Graduation Thesis (Top 1%), 2014 – Issued by Nanjing University.
-- First Prize of People's Scholarship (Top 5%), 2010-2012 – Issued by Nanjing University.
+- Chinese National Scholarship (Top 5%), 2016, Issued by the Ministry of Education of China.
+- Outstanding Master's Scholarship (Top 5%), 2016, Issued by Tongji University.
+- Application of Cell Phone Signaling Data in the Evaluation of Built Environment in Meso-Cities, Outstanding Paper Award, 2015, Issued by the Chinese Geographical Society (CGS).
+- First Prize of Graduation Thesis (Top 1%), 2014, Issued by Nanjing University.
+- First Prize of People's Scholarship (Top 5%), 2010-2012, Issued by Nanjing University.
+
+## Volunteering
+- Volunteer for the Asian Youth Games, 2013, Nanjing, China.
+- Volunteer for the Youth Olympic Games, 2014, Nanjing, China.
+- Volunteer for the Youth Olympic Games, 2014, Nanjing, China.
+
+- 
+
 
