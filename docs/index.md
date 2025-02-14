@@ -27,10 +27,9 @@ Thank you for visiting, and I look forward to exploring opportunities for collab
 <p> 📧Email: <a href="wjzhong0531@gmail.com">wjzhong0531@gmail.com</a></p>
 
 
-📄 [Download My CV](/docs/assets/cv.pdf)
+📄 [Download My CV](/docs/assets/CV.pdf)
 
 <p class="links">
     Here are my 
-    <a href="https://www.linkedin.com/in/weijing-zhong-4524a6345/">LinkedIn</a>, and 
-    <a href="#">Twitter</a>.
+    <a href="https://www.linkedin.com/in/weijing-zhong/">LinkedIn</a>.
 </p>
