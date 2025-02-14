@@ -12,7 +12,7 @@ title: "About Me"
 - **Senior Urban Planner**, Hangzhou City Planning and Design Academy(2024 - Present).
 - **Urban Planner**, Hangzhou City Planning and Design Academy(2017 - 2024).
 
-## Professional Qualifications: 
+## Professional Qualifications 
 - Certified Urban-Rural Planner (China)
 - Registered Consulting Engineer (China)
 
@@ -44,20 +44,19 @@ title: "About Me"
 ## Volunteering
 - Volunteer for the Asian Youth Games, 2013, Nanjing, China.
 
-worked in the press department and liaised with media outlets to ensure efficient coverage. I oversaw media accreditation and assisted journalists in navigating event schedules and obtaining necessary information. 
-
+<p>Worked in the press department, liaised with media outlets, assisted media accreditation, and assisted journalists in navigating event schedules and obtaining necessary information. </p>
 
 - Volunteer for the Youth Olympic Games, 2014, Nanjing, China.
   
-Accompanied and supported an international delegation throughout the whole Games. Coordinated logistics, registration, managed the delegation's schedule, and provided seamless assistance where needed.
+<p>Accompanied and supported an international delegation throughout the whole Games. Coordinated logistics and registration, managed the delegation's schedule, and provided seamless assistance where needed.</p>
 
-- Volunteer for the Big Data and Spatiotemporal Behavior Symposium
+- Volunteer for the Big Data and Spatiotemporal Behavior Symposium, Shanghai, China.
 
-Assisted my supervisor team in managing all aspects of the event. Coordinated the invitation and communication process with expert speakers, oversaw the conference registration, and arranged accommodations for participants. Additionally, I liaised with the team to align the presentation materials and report content, ensuring a seamless and successful event.
+<p>Assisted my supervisor team in managing all aspects of the event. Coordinated the invitation with expert speakers, arranged registration and accommodations for participants, and aligned the presentation materials and report content, ensuring a seamless and successful event.</p>
 
 - Volunteer for the Youth Olympic Games, 2018, Hangzhou, China.
 
-Assisted in arranging pick-up and drop-off services for visiting experts. Managed detailed itineraries and coordinated with various service providers to ensure that expert reached their designated venues on time. 
+<p>Assisted in arranging pick-up and drop-off services for visiting experts. Managed detailed itineraries and coordinated with various service providers to ensure that expert reached their designated venues on time. </p>
 
 
 
