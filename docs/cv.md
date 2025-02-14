@@ -48,7 +48,7 @@ title: "About Me"
 - Volunteer for the Youth Olympic Games, 2014, Nanjing, China.
   <p>Accompanied and supported an international delegation throughout the whole Games. Coordinated logistics and registration, managed the delegation's schedule, and provided seamless assistance where needed.</p>
 
-- Volunteer for the Big Data and Spatiotemporal Behavior Symposium, Shanghai, China.
+- Volunteer for the Big Data and Spatiotemporal Behavior Symposium, 2016, Shanghai, China.
   <p>Assisted my supervisor team in managing all aspects of the event. Coordinated the invitation with expert speakers, arranged registration and accommodations for participants, and aligned the presentation materials and report content, ensuring a seamless and successful event.</p>
 
 - Volunteer for the Youth Olympic Games, 2018, Hangzhou, China.
