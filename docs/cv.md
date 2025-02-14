@@ -43,9 +43,16 @@ title: "About Me"
 
 ## Volunteering
 - Volunteer for the Asian Youth Games, 2013, Nanjing, China.
-- Volunteer for the Youth Olympic Games, 2014, Nanjing, China.
-- Volunteer for the Youth Olympic Games, 2014, Nanjing, China.
 
-- 
+worked in the press department and liaised with media outlets to ensure efficient coverage. I oversaw media accreditation and assisted journalists in navigating event schedules and obtaining necessary information. 
+
+
+- Volunteer for the Youth Olympic Games, 2014, Nanjing, China.
+  
+Accompanied and supported an international delegation throughout the whole Games. Coordinated logistics, registration, managed the delegation's schedule, and provided seamless assistance where needed.
+
+- Volunteer for the Youth Olympic Games, 2018, Hangzhou, China.
+
+Assisted in arranging pick-up and drop-off services for visiting experts. Managed detailed itineraries and coordinated with various service providers to ensure that expert reached their designated venues on time. 
 
 
