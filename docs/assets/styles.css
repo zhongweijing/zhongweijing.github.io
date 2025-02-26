@@ -116,5 +116,7 @@ nav a.active {
 
 /* ======= footer ======= */
 footer{
-    align-items: center;
+    display: flex;  /* 启用 Flexbox */
+    align-items: center;  /* 垂直居中 */
+    justify-content: center; /* 水平居中（可选） */
 }
