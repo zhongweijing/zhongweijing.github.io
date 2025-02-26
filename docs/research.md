@@ -7,13 +7,12 @@ title: "Research"
 - Research on the Pastoral Parks Planning in Hangzhou, Hangzhou Municipal Bureau of Planning and Natural Resources, Main Planner, 2022-2023.
 - Study on Tent Camping Space Demand Preferences and Planning Guidance in Hangzhou from a Human-Centered Perspective, Hangzhou City Planning and Design Academy, Main Planner, 2023-2024.
 - Study on the Suitability and Compatibility of Public Service Facility Multi-functional Utilization from the Perspective of Spatial Efficiency, Hangzhou City Planning and Design Academy, Main Planner, 2023-2024.
-- Research on the Transmission Mechanism of Hangzhou Green Space System Special Planning to Detailed Regulatory Planning, Hangzhou Municipal Bureau of garden and cultural relics, Main Planner, 2021-2023.
+- Research on the Transmission Mechanism of Hangzhou Green Space System Special Planning to Detailed Regulatory Planning, Hangzhou Municipal Bureau of Garden and Cultural Relics, Main Planner, 2021-2023.
 - Research on the Nursery Facility Demand and Planning and Construction Models, Hangzhou City Planning and Design Academy, Project Leader, 2021.
-- Yungu Innovative Space Planning and Research, Main Planner, 2020.
-- Research on the Optimization and Enhancement of Basic Education Facilities in the West Hangzhou Sci-Tech Corridor, West Hangzhou Sci-Tech Corridor Management Committee, Main Planner, 2019-2020.
-- Hangzhou Park System Research, Hangzhou Municipal Bureau of garden and cultural relics, Participat, 2019-2021.
-- Research on the Integration of Urban Greening Management across "Four Districts and Three Counties" and Countermeasures, Hangzhou Municipal Bureau of garden and cultural relics, Participat, 2019-2021.
-- Research on the Assessment of Urban Built Environment based on Cell Phone Signaling Data, Science and Technology Talent Programme of Shanghai Municipal Science and Technology Commission，Main Planner，2016-2019.
+- Research on the Optimization and Enhancement of Basic Education Facilities in the West Hangzhou Sci-Tech Corridor, Hangzhou Western Sci-Tech Corridor Management Committee, Main Planner, 2019-2020.
+- Hangzhou Park System Research, Hangzhou Municipal Bureau of Garden and Cultural Relics, Participat, 2019-2021.
+- Research on the Integration of Urban Greening Management across "Four Districts and Three Counties" and Countermeasures, Hangzhou Municipal Bureau of Garden and Cultural Relics, Participat, 2019-2021.
+- Research on the Assessment of Urban Built Environment based on Cell Phone Signaling Data, Science and Technology Talent Programme of Shanghai Municipal Science and Technology Commission, Main Planner，2016-2019.
 
 ## Thesis
 - The Classification and Characteristics of Urban Activity Space in Shanghai Central City Based on Mobile Phone Signaling Data, 2017.
