@@ -31,5 +31,5 @@ Thank you for visiting, and I look forward to exploring opportunities for collab
 
 <p class="links">
     Here are my 
-    <a href="https://www.linkedin.com/in/weijing-zhong/">LinkedIn</a>.
+    <a href="https://www.linkedin.com/in/weijing-zhong/", target="_blank">LinkedIn</a>.
 </p>
