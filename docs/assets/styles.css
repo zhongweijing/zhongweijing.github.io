@@ -68,12 +68,12 @@ nav a {
 }
 
 nav a:hover {
-    color: black;
+    color: #1E3A8A; 
 }
 
 nav a.active {
     font-weight: bold;
-    color: black;
+    color: #1E3A8A;
     border-bottom: 2px solid black;
 }
 
