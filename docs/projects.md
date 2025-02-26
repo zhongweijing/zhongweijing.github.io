@@ -30,6 +30,8 @@ title: "Projects"
 - Linping District Embedded Sports Venue Facilities Special Action Planning (2022-2025), Main Planner, 2022-2023.
 - Hangzhou Linping District Chaoshan-Dingshan Lake Unit (LP23) Detailed Planning, Main Planner, 2023-2024.
 - Hangzhou Urban Parks Recent Construction and Three-Year Action Implementation Plan, Participant, 2022-2024.
+- Yungu Innovative Space Planning, Main Planner, 2020.
+
 
 
 ## Planning Review and Report
