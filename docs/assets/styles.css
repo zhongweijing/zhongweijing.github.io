@@ -113,3 +113,8 @@ nav a.active {
 .links a:hover {
     text-decoration: underline;
 }
+
+/* ======= footer ======= */
+footer{
+    align-items: center;
+}
