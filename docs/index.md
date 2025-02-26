@@ -30,6 +30,6 @@ Thank you for visiting, and I look forward to exploring opportunities for collab
 📄 [Download My CV](/docs/assets/CV.pdf)
 
 <p class="links">
-    Here are my 
-    <a href="https://www.linkedin.com/in/weijing-zhong/", target="_blank">LinkedIn</a>.
+    Here is my 
+    <a href="https://www.linkedin.com/in/weijing-zhong/" target="_blank" rel="noopener noreferrer">LinkedIn</a>.
 </p>
