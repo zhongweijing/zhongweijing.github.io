@@ -26,7 +26,7 @@ title: "About Me"
 - Special Planning for the Green Space System of Hangzhou (2021-2035), First Prize, Hangzhou Excellent Landscape Architecture Project Award (Planning & Design), 2024.
 - Special Planning for the Cultural and Artistic Corridor across Three Rivers, First Prize, Zhejiang Provincial Outstanding Land and Spatial Planning Design Award,  2023.
 - Implementation Assessment of Hangzhou Xixi National Wetland Park Master Plan, Second Prize, 2023 Hangzhou Excellent Land Spatial Planning Design Award, 2023.
-- Hangzhou Park System Construction Planning, First Prize, Excellent Project of 2018 Zhejiang Provincial Landscape Architecture Association, 2022.
+- Hangzhou Park System Construction Planning, First Prize, Excellent Project of Zhejiang Provincial Landscape Architecture Association, 2022.
 - Hangzhou Park System Construction Planning, Second Prize, Hangzhou Excellent Urban and Rural Planning and Design Award, 2021.
 - Special Planning for Basic Education in Hangzhou, Third Prize, Hangzhou Excellent Urban and Rural Planning and Design Award, 2021.
 - Implementation Assessment Report on Hangzhou Green Space System Planning (2007-2020), Third Prize, Hangzhou Excellent Urban and Rural Planning and Design Award, 2021.
