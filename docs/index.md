@@ -28,7 +28,7 @@ Thank you for visiting, and I look forward to exploring opportunities for collab
 <p> 📧Email: <a href="wjzhong0531@gmail.com">wjzhong0531@gmail.com</a></p>
 
 
-📄 [Download My CV](/docs/assets/CV.pdf)
+📄 [Download My CV](assets/CV.pdf)
 
 <p class="links">
     Here is my 
