@@ -29,7 +29,7 @@ Thank you for visiting, and I look forward to exploring opportunities for collab
 <p> 📧Email: <a href="wjzhong0531@gmail.com">wjzhong0531@gmail.com</a></p>
 
 
-<a href="assets/CV_ZHONGWEIJING.pdf"> 📄 Download My CV</a>
+<a href="assets/CV.pdf"> 📄 Download My CV</a>
 
 
 <p class="links">
