@@ -4,11 +4,12 @@ title: "About Me"
 ---
 
 ## Education
-- Master of Science in Applied in GIS, National University of Singapore (2024 - Present).
+- Master of Science in Applied GIS, National University of Singapore (2024 - 2025).
 - Master of Engineering in Town and Country Planning, Tongji University (2014 - 2017).
 - Bachelor of Engineering in Urban Planning, Nanjing University(2009 - 2014).
 
 ## Industrial Experience
+- **Research Intern, A*STAR** Institute of High Performance Computing (IHPC), Singapore (2025).
 - **Senior Urban Planner**, Hangzhou City Planning and Design Academy(2024 - Present).
 - **Urban Planner**, Hangzhou City Planning and Design Academy(2017 - 2024).
 
